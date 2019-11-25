@@ -12,3 +12,4 @@ APIS usadas por compañeros:
 -Pedro: Coinlore
 -Aitor: Coinbase
 -Manuel P: OneForge
+-Christian: Kraken
