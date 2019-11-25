@@ -19,3 +19,4 @@ APIS usadas por compañeros:
 -Javier: CoinMarketCap 
 -David: CoinCap
 -Daniel: CoinPaprika
+-Manu: Cambio.today
