@@ -14,3 +14,5 @@ APIS usadas por compañeros:
 -Manuel P: OneForge
 -Christian: Kraken
 -Luis: CoinAPI
+-Luis Jesús: Nomics
+
