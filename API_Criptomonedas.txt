@@ -11,8 +11,9 @@ APIS usadas por compañeros:
 -Lucia: BitPanda
 -Pedro: Coinlore
 -Aitor: Coinbase
--Manuel P: OneForge
+-Manuel P: fixed.io
 -Christian: Kraken
 -Luis: CoinAPI
 -Luis Jesús: Nomics
+-José Manuel: BitcoinCharts
 
