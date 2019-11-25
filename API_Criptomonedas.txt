@@ -1,0 +1,13 @@
+Monedas que tienen que estar disponibles: BitCoin (BTC), Etherum (ETH), Euros y Dólares
+
+APIS usadas por compañeros:
+
+
+-Iván: Cryptocompare
+-Ramiro: Binance / ecb.europa.eu
+-Gonzalo D: Bitso
+-Gonzalo A: BitPay 
+-Fabio: Criptonator
+-Lucia: BitPanda
+-Pedro: Coinlore
+-Aitor: 
