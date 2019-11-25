@@ -10,4 +10,4 @@ APIS usadas por compañeros:
 -Fabio: Criptonator
 -Lucia: BitPanda
 -Pedro: Coinlore
--Aitor: 
+-Aitor: Coinbase
