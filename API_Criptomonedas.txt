@@ -18,4 +18,4 @@ APIS usadas por compañeros:
 -José Manuel: BitcoinCharts
 -Javier: CoinMarketCap 
 -David: CoinCap
-
+-Daniel: CoinPaprika
