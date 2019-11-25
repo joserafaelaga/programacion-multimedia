@@ -11,3 +11,4 @@ APIS usadas por compañeros:
 -Lucia: BitPanda
 -Pedro: Coinlore
 -Aitor: Coinbase
+-Manuel P: OneForge
