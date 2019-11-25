@@ -13,3 +13,4 @@ APIS usadas por compañeros:
 -Aitor: Coinbase
 -Manuel P: OneForge
 -Christian: Kraken
+-Luis: CoinAPI
