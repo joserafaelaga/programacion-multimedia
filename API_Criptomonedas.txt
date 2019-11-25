@@ -17,4 +17,5 @@ APIS usadas por compañeros:
 -Luis Jesús: Nomics
 -José Manuel: BitcoinCharts
 -Javier: CoinMarketCap 
+-David: CoinCap
 
