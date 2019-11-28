@@ -5,7 +5,7 @@ APIS usadas por compañeros:
 
 -Iván: Cryptocompare
 -Ramiro: Binance / ecb.europa.eu
--Gonzalo D: Bitso
+-Gonzalo D: Stex
 -Gonzalo A: BitPay 
 -Fabio: Criptonator
 -Lucia: BitPanda
@@ -18,5 +18,5 @@ APIS usadas por compañeros:
 -José Manuel: BitcoinCharts
 -Javier: CoinMarketCap 
 -David: CoinCap
--Daniel: CoinPaprika / Blockchain
+-Daniel: Coinlib
 -Manu: Cambio.today
