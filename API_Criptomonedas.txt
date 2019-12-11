@@ -12,7 +12,7 @@ APIS usadas por compañeros:
 -Pedro: Coinlore
 -Aitor: Coinbase
 -Manuel P: fixed.io
--Christian: Kraken
+-Christian: Whale Alert
 -Luis: CoinAPI
 -Luis Jesús: Nomics
 -José Manuel: BitcoinCharts
